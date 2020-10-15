@@ -34,6 +34,10 @@ password = asterisk
 ```
 (obviously changing users and password )
 
+## BCS OCRI ACESS
+```
+https://bcs.olssoo.com:8089/static/ocri.html
+```
 in the dialplan (file /etc/asterisk/extensions.conf) you should have
 a stasis extension:
 ```
